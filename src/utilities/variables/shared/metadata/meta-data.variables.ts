@@ -66,7 +66,7 @@ export const PAGE_METADATA = {
 
 export const OPEN_GRAPH = {
   image: {
-    url: "https://younes-portfolio-dev.vercel.app/_next/image?url=%2Fjpg%2Fhome%2Fprofile-pic.jpg&w=256&q=75",
+    url: " ",
     width: 130,
     height: 170,
   },

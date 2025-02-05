@@ -20,7 +20,7 @@ export default function Document(): JSX.Element {
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico" />
 
         {/*  Canonical link  */}
-        <link rel="canonical" href="https://younes-portfolio-dev.vercel.app/" />
+        <link rel="canonical" href=" " />
       </Head>
       <body>
         <Main />

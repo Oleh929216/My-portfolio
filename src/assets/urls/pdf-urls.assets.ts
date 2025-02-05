@@ -1,5 +1,5 @@
 const PDF_URLS = {
-  resume: "/pdf/about/Younes-Lahouiti_Resume-CV.pdf",
+  resume: " ",
   baccalaureate: "/pdf/about/BACCALAUREAT GENERAL.pdf",
   webDevDiploma: "/pdf/about/diplome OC RNCP level 5.pdf",
   frontEndDevDiploma: "/pdf/about/diplome OC RNCP level 6.pdf",
