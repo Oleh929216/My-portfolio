@@ -3,14 +3,14 @@ import { amountOfExperience } from "@utilities/variables/common/about/about-card
 export const PAGE_METADATA = {
   home: {
     title: "Home page",
-    description: `Hello! My name is Younes LAHOUITI and I am a skilled fullstack developer with ${amountOfExperience} years of experience in JavaScript. My passion lies in creating captivating and immersive web experiences for users, utilizing modern web technologies to build dynamic and responsive websites. I am dedicated to crafting clean, efficient, and maintainable code that optimizes performance and scalability. Outside of work, I enjoy staying active by going to the gym and playing video-games. Thank you for taking the time to visit my portfolio. I look forward to collaborating with you!`,
+    description: `Hello! My name is Oleh with over 15 years of experience in web development. My passion lies in creating captivating and immersive web experiences for users, utilizing modern web technologies to build dynamic and responsive websites. I am dedicated to crafting clean, efficient, and maintainable code that optimizes performance and scalability. Outside of work, I enjoy staying active by going to the gym and playing video-games. Thank you for taking the time to visit my portfolio. I look forward to collaborating with you!`,
     pageUri: "/",
     needsIndexation: true,
     allowRobotCrawlers: true,
   },
   about: {
     title: "About page",
-    description: `Get to know me better! I'm Younes LAHOUITI, a passionate fullstack developer with ${amountOfExperience} years of experience in JavaScript. In this page, I share my story, skills, and interests. Learn about my professional journey and discover how I can help you build engaging web experiences.`,
+    description: `Get to know me better! I'm Oleh, a passionate fullstack developer. In this page, I share my story, skills, and interests. Learn about my professional journey and discover how I can help you build engaging web experiences.`,
     pageUri: "/about",
     needsIndexation: true,
     allowRobotCrawlers: true,
